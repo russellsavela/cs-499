@@ -4,3 +4,6 @@
 [submodule "cs499-enhancement-two"]
 	path = cs499-enhancement-two
 	url = https://github.com/russellsavela/cs499-enhancement-two
+[submodule "cs499-enhancement-three"]
+	path = cs499-enhancement-three
+	url = https://github.com/russellsavela/cs499-enhancement-three
